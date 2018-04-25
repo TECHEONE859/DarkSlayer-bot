@@ -1,11 +1,16 @@
 {
-  "name": "yes",
+  "name": "DarkSlayer-bot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Techeone",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "pm2": "^2.10.2"
+  },
+  "devDependencies": {},
+  "description": ""
 }
