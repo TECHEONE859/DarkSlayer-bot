@@ -429,4 +429,4 @@ if(message.content.startsWith(prefix + "vcs")) {
 
 
 
-bot.login('NDM3MzQ2NjQ0NjY1NTY1MTk1.Db0uUw.cAHWZwt-_ZH2-8JRBqMdqeQhNMI');
+bot.login(process.env.TOKEN);
